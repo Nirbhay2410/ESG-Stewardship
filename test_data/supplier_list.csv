@@ -1,0 +1,11 @@
+Supplier_ID,Supplier_Name,Supplier_Address,City,Country,Material_Category,Annual_Spend_USD,Water_Intensity_Factor_(est)
+SUP001,Global Water Solutions,456 Supply Chain Dr,Austin,TX,Water Services,250000,150000
+SUP002,AgriSupply Inc,789 Farm Road,Fresno,CA,Agriculture,500000,500000
+SUP003,Industrial Equipment Co,321 Manufacturing Way,Chicago,IL,Manufacturing,750000,150000
+SUP004,Chemical Supply Corp,654 Chemical Blvd,Houston,TX,Chemicals,300000,180000
+SUP005,Transportation Logistics,987 Transport St,Atlanta,GA,Logistics,200000,100000
+SUP006,Office Supplies Ltd,147 Business Ave,Denver,CO,Services,150000,30000
+SUP007,Food Distributors Inc,258 Market St,Seattle,WA,Food Beverage,400000,200000
+SUP008,Textile Manufacturers,369 Fabric Rd,Charlotte,NC,Textiles,350000,300000
+SUP009,Electronics Parts,480 Tech Dr,Phoenix,AZ,Technology,600000,50000
+SUP010,Construction Materials,571 Builder Ln,Las Vegas,NV,Construction,450000,150000

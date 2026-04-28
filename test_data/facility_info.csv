@@ -1,0 +1,5 @@
+Facility_ID,Facility_Name,Street_Address,City,State,Postal_Code,Country,Industry_Type,Facility_Type,Latitude,Longitude,Annual_Revenue_USD,Production_Capacity_Value,Production_Capacity_Unit,Number_of_Employees,Square_Footage
+FAC001,Acme Manufacturing,1 Market Street,San Francisco,CA,94105,USA,Manufacturing,Factory,37.7749,-122.4194,50000000,1000000,units,250,150000
+FAC002,Sunrise Hotel,200 Broadway,San Diego,CA,92101,USA,Hospitality,Hotel,32.7157,-117.1611,15000000,200,rooms,150,80000
+FAC003,Tech Data Center,1 North First Street,San Jose,CA,95113,USA,Technology,Data Center,37.3382,-121.8863,100000000,50000,servers,50,100000
+

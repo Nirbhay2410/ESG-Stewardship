@@ -1,0 +1,22 @@
+Record_ID,Facility_ID,Meter_ID,Meter_Location,Meter_Type,Utility_Type,Timestamp,Reading_Value,Unit,Flow_Rate_GPM,Temperature_C,Status
+MD001,FAC001,MTR1001,Building A,Supply,Water,2026-01-01 00:00:00,100000,gallons,50,22,normal
+MD002,FAC001,MTR1001,Building A,Supply,Water,2026-01-02 00:00:00,100500,gallons,48,21,normal
+MD003,FAC001,MTR1001,Building A,Supply,Water,2026-01-03 00:00:00,101000,gallons,52,23,normal
+MD004,FAC001,MTR1002,Irrigation,Irrigation,Water,2026-01-01 00:00:00,50000,gallons,25,18,normal
+MD005,FAC001,MTR1002,Irrigation,Irrigation,Water,2026-01-02 00:00:00,50250,gallons,24,17,normal
+MD006,FAC001,MTR1002,Irrigation,Irrigation,Water,2026-01-03 00:00:00,50500,gallons,26,19,normal
+MD007,FAC001,MTR1003,Cooling Tower,Cooling,Water,2026-01-01 00:00:00,75000,gallons,100,28,normal
+MD008,FAC001,MTR1003,Cooling Tower,Cooling,Water,2026-01-02 00:00:00,75500,gallons,98,27,normal
+MD009,FAC001,MTR1003,Cooling Tower,Cooling,Water,2026-01-03 00:00:00,76000,gallons,102,29,normal
+MD010,FAC002,MTR2001,Building B,Supply,Water,2026-01-01 00:00:00,80000,gallons,45,20,normal
+MD011,FAC002,MTR2001,Building B,Supply,Water,2026-01-02 00:00:00,80400,gallons,44,19,normal
+MD012,FAC002,MTR2001,Building B,Supply,Water,2026-01-03 00:00:00,80800,gallons,46,21,normal
+MD013,FAC002,MTR2002,Kitchen,Kitchen,Water,2026-01-01 00:00:00,25000,gallons,30,22,normal
+MD014,FAC002,MTR2002,Kitchen,Kitchen,Water,2026-01-02 00:00:00,25150,gallons,28,21,normal
+MD015,FAC002,MTR2002,Kitchen,Kitchen,Water,2026-01-03 00:00:00,25300,gallons,32,23,normal
+MD016,FAC003,MTR3001,Data Center,Supply,Water,2026-01-01 00:00:00,2000000,gallons,500,18,normal
+MD017,FAC003,MTR3001,Data Center,Supply,Water,2026-01-02 00:00:00,2005000,gallons,495,17,normal
+MD018,FAC003,MTR3001,Data Center,Supply,Water,2026-01-03 00:00:00,2010000,gallons,505,19,normal
+MD019,FAC003,MTR3002,Cooling Tower,Cooling,Water,2026-01-01 00:00:00,500000,gallons,200,25,normal
+MD020,FAC003,MTR3002,Cooling Tower,Cooling,Water,2026-01-02 00:00:00,502500,gallons,198,24,normal
+MD021,FAC003,MTR3002,Cooling Tower,Cooling,Water,2026-01-03 00:00:00,505000,gallons,202,26,normal

@@ -1,0 +1,10 @@
+Bill_ID,Facility_ID,Facility_Name,Utility_Type,Account_Number,Billing_Period_Start,Billing_Period_End,Usage_Volume_(gal),Usage_Volume_(CCF),Total_Bill_($),Water_Source,Tier_1_Cost_($),Tier_2_Cost_($),Sewer_Charge_($),Storm_Fee_($)
+UB001,FAC001,Acme Manufacturing,Water,ACC-12345,2026-01-01,2026-01-31,150000,18000,4500,Municipal,3000,1500,800,200
+UB002,FAC002,Sunrise Hotel,Water,ACC-23456,2026-01-01,2026-01-31,85000,10200,2800,Municipal,2000,800,600,400
+UB003,FAC003,Tech Data Center,Water,ACC-34567,2026-01-01,2026-01-31,2500000,300000,75000,Municipal,50000,25000,15000,5000
+UB004,FAC001,Acme Manufacturing,Electricity,ACC-12345,2026-01-01,2026-01-31,0,0,12500,Electricity,12500,0,0,0
+UB005,FAC002,Sunrise Hotel,Electricity,ACC-23456,2026-01-01,2026-01-31,0,0,9800,Electricity,9800,0,0,0
+UB006,FAC003,Tech Data Center,Electricity,ACC-34567,2026-01-01,2026-01-31,0,0,45000,Electricity,45000,0,0,0
+UB007,FAC001,Acme Manufacturing,Gas,ACC-12345,2026-01-01,2026-01-31,0,5600,5600,Gas,5600,0,0,0
+UB008,FAC002,Sunrise Hotel,Gas,ACC-23456,2026-01-01,2026-01-31,0,3200,3200,Gas,3200,0,0,0
+UB009,FAC003,Tech Data Center,Gas,ACC-34567,2026-01-01,2026-01-31,0,8500,8500,Gas,8500,0,0,0

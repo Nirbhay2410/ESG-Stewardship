@@ -1,0 +1,16 @@
+Permit_ID,Permit_Type,Issuing_Authority,Effective_Date,Expiration_Date,Outfall_ID,Parameter,Limit_Value,Limit_Unit,Sample_Value,Compliance_Status,Sample_Date,Lab_Name
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,BOD,30,mg/L,25,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,COD,100,mg/L,85,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,TSS,30,mg/L,22,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,pH,6-9,pH,7.2,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,Temperature,30,C,28,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,Nitrogen,10,mg/L,8,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,Phosphorus,2,mg/L,1.5,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,Iron,1,mg/L,0.8,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,Copper,0.5,mg/L,0.3,pass,2025-01-15,EnviroLab
+NPDES-12345,Discharge,EPA,2024-01-01,2026-12-31,OUTF-001,Lead,0.1,mg/L,0.05,pass,2025-01-15,EnviroLab
+NPDES-23456,Discharge,State Water Board,2024-06-01,2026-05-31,OUTF-002,BOD,25,mg/L,20,pass,2025-01-10,QualityLab
+NPDES-23456,Discharge,State Water Board,2024-06-01,2026-05-31,OUTF-002,COD,80,mg/L,65,pass,2025-01-10,QualityLab
+NPDES-23456,Discharge,State Water Board,2024-06-01,2026-05-31,OUTF-002,TSS,20,mg/L,15,pass,2025-01-10,QualityLab
+NPDES-23456,Discharge,State Water Board,2024-06-01,2026-05-31,OUTF-002,pH,6-9,pH,7.5,pass,2025-01-10,QualityLab
+NPDES-23456,Discharge,State Water Board,2024-06-01,2026-05-31,OUTF-002,Temperature,35,C,32,pass,2025-01-10,QualityLab

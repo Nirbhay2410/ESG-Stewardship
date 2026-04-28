@@ -1,0 +1,34 @@
+# FastAPI and server
+fastapi>=0.109.0,<0.115.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+
+# Database
+motor==3.3.2
+pymongo==4.6.1
+
+# AI - OpenRouter (OpenAI-compatible, free models available)
+openai>=1.30.0
+
+# AI/ML (Gemini) - kept as fallback; get key at https://aistudio.google.com/apikey
+# google-genai>=1.0.0
+
+# File processing
+aiofiles==23.2.1
+pandas==2.1.4
+openpyxl==3.1.2
+pdfplumber==0.10.3
+pytesseract==0.3.10
+Pillow==10.2.0
+
+# Geospatial
+geopy==2.4.1
+
+# WebSocket (websockets>=13 required by google-genai)
+python-socketio==5.11.0
+websockets>=13.0,<17.0
+
+# Utilities
+python-dateutil==2.8.2
+uuid==1.30
